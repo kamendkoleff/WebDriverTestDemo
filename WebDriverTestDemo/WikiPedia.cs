@@ -16,5 +16,5 @@ searchField.Click();
 
 searchField.SendKeys("QA" + Keys.Enter);
 //Close Browser
-//driver.Quit();
+driver.Quit();
 Console.WriteLine("TITLE AFTER SEARCH: " +driver.Title);

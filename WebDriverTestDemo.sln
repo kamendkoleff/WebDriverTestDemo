@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTestDemo", "WebDri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitWebDriverTests", "NUnitWebDriverTests\NUnitWebDriverTests.csproj", "{38AC2968-AC5E-48AC-AF9B-CCE18C37B5CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDrivercalculatorTests", "WebDrivercalculatorTests\WebDrivercalculatorTests.csproj", "{A2D07FBA-A5BA-4C9A-89F0-3AB94D979EC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38AC2968-AC5E-48AC-AF9B-CCE18C37B5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38AC2968-AC5E-48AC-AF9B-CCE18C37B5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38AC2968-AC5E-48AC-AF9B-CCE18C37B5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D07FBA-A5BA-4C9A-89F0-3AB94D979EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D07FBA-A5BA-4C9A-89F0-3AB94D979EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D07FBA-A5BA-4C9A-89F0-3AB94D979EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D07FBA-A5BA-4C9A-89F0-3AB94D979EC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
